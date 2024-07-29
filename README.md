@@ -1,8 +1,8 @@
 # PlanPrebas_Urban_Routes
 Herramientas y pasos para la creación de casos de prueba:
 
-- Diagrama de Flujo
-- Mapa mental
-- Clases de equivalencia
-- Listas de comprobación
-- Casos de pruebas funcionales
+- Flow Chart
+- Mind Map
+- Equivalence Classes (download Excel file)
+- Checklists (download Excel file)
+- Functional Test Cases (download Excel file)
